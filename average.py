@@ -6,4 +6,8 @@ sum = x+y+z
 
 avg = sum/3
 
+maxNum = max(x,y,z)
+minNum = min(x,y,z)
+
 print(avg)
+print(maxNum,minNum)
